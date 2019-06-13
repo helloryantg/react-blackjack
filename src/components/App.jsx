@@ -18,7 +18,7 @@ class App extends Component {
   render() {
     return (
       <AppContainer>
-        <div>Fake</div>
+        <div>Blackjack Game</div>
       </AppContainer>
     )
   }
